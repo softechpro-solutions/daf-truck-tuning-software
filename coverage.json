@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
   "repository": "daf-truck-tuning-software",
+  "title": "DAF Truck ECU Tuning Software (XF / XG / CF / LF)",
   "official_url": "https://www.softechpro-solutions.com/trucks/daf-truck-ecu-tuning.html",
-  "matched_ecus": 0,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/daf-truck-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
